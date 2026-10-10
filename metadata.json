@@ -1,0 +1,6 @@
+{
+  "name": "AuditPro: Analizador de CFDIs y Saldos Insolutos",
+  "description": "Herramienta técnica de auditoría fiscal para el análisis de complementos de pago, conciliación de saldos insolutos y generación de reportes Excel profesionales, ejecutada 100% en el navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
