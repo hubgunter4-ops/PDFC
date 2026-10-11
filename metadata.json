@@ -1,6 +1,6 @@
 {
-  "name": "AuditPro: Analizador de CFDIs y Saldos Insolutos",
-  "description": "Herramienta técnica de auditoría fiscal para el análisis de complementos de pago, conciliación de saldos insolutos y generación de reportes Excel profesionales, ejecutada 100% en el navegador.",
+  "name": "AUDITPRO: revisión local de CFDI y pagos",
+  "description": "Panel responsivo para leer CFDI XML y ZIP en el navegador, explorar complementos de pago, saldos e importes IEPS y exportar reportes Excel. No valida CFDI ante el SAT ni ofrece asesoría fiscal.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
